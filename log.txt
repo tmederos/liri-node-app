@@ -1,0 +1,88 @@
+Wednesday, January 17, 2018, 6:02 PM - User Input
+============================================
+User Input: my-tweets
+
+Wednesday, January 17, 2018, 6:02 PM - Tweet
+============================================
+ 1. I have no idea what I am doing.... https://t.co/NVWmkj7eYk
+Tweeted on: Tue Jan 16 03:56:59 +0000 2018
+============================================
+============================================
+ 2. What is Mila doing with her feet? https://t.co/cDgCq0wtGe
+Tweeted on: Tue Jan 16 03:46:26 +0000 2018
+============================================
+============================================
+ 3. I love to go outside and eat grass so I can come inside and puke it up. https://t.co/9kTqUkrmCr
+Tweeted on: Tue Jan 16 03:45:48 +0000 2018
+============================================
+============================================
+ 4. You can't make me move. https://t.co/yGwPxVHTf6
+Tweeted on: Tue Jan 16 03:27:44 +0000 2018
+============================================
+============================================
+ 5. Finnick does not look happy ... https://t.co/t58jpBI5Oc
+Tweeted on: Tue Jan 16 03:18:57 +0000 2018
+============================================
+============================================
+ 6. Another time when Finnick had no idea what he was doing... https://t.co/9meQPYG8bI
+Tweeted on: Thu Jan 11 00:54:21 +0000 2018
+============================================
+============================================
+ 7. I hate Mila. I should bite her.
+Tweeted on: Wed Jan 10 02:02:17 +0000 2018
+============================================
+============================================
+ 8. Guess whooo is on twitter.... https://t.co/jMrjj7NUMq
+Tweeted on: Tue Jan 09 03:07:04 +0000 2018
+============================================
+
+Wednesday, January 17, 2018, 6:03 PM - User Input
+============================================
+User Input: spotify-this-song
+
+Wednesday, January 17, 2018, 6:03 PM - Song
+============================================
+Artist: Leonard Cohen
+Song Title: Famous Blue Raincoat
+Album: Songs Of Love And Hate
+Song Preview: https://p.scdn.co/mp3-preview/85951977b0306650021f46b836b79d5c68522a75?cid=2811514c2df54af4a3e20e2965a57dc5
+============================================
+Wednesday, January 17, 2018, 6:03 PM - User Input
+============================================
+User Input: movie-this
+
+Wednesday, January 17, 2018, 6:03 PM - Movie
+============================================
+Movie Search Information 
+Title: Goldfinger
+Year Movie Released: 09 Jan 1965
+Country where the movie was produced: UK
+Language of the movie: English, Chinese, Spanish
+IMDB Rating: 7.8
+Plot: Investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve.
+Actors: Sean Connery, Gert Fröbe, Honor Blackman, Shirley Eaton
+Rotten Tomatoes Rating: N/A
+============================================
+
+Wednesday, January 17, 2018, 6:04 PM - User Input
+============================================
+User Input: do-what-it-says
+
+Wednesday, January 17, 2018, 6:04 PM - Song
+============================================
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Album: The Hits--Chapter One
+Song Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=2811514c2df54af4a3e20e2965a57dc5
+============================================
+Thursday, January 18, 2018, 12:55 PM - User Input
+============================================
+User Input: do-what-it-says
+
+Thursday, January 18, 2018, 12:55 PM - Song
+============================================
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Album: The Hits--Chapter One
+Song Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=2811514c2df54af4a3e20e2965a57dc5
+============================================
