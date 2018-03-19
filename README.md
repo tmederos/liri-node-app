@@ -20,7 +20,7 @@ The challenge was to use Node JS to create a LIRI bot, like iPhone's SIRI, but t
 
   * Displays my last 20 tweets and when they were created in terminal/bash window.
   
-![Screenshot](https://github.com/tmederos/liri-node-app/blob/master/screen-shot1.jpg)
+![Screenshot](https://github.com/tmederos/liri-node-app/blob/master/screen-shot.jpg)
 
 2. `node liri.js spotify-this-song <song name>`
 
