@@ -4,6 +4,7 @@
   "description": "Liri node app",
   "main": "liri.js",
   "dependencies": {
+    "deep-extend": "^0.6.0",
     "inquirer": "^5.0.0",
     "node-spotify-api": "^1.0.7",
     "request": "^2.83.0",
