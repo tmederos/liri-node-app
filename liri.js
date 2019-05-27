@@ -2,6 +2,7 @@
 // LIRI is a command line node app that takes in parameters and gives you
 // back data from Twitter, Spotify and OMDB movie databaseAPIs.
 //  Author: Trish Mederos
+//  UofA Full Stack Boot Camp Assignment week 10.
 
 // ============= Declaring variables=================
 var keys = require('./keys.js');
@@ -82,7 +83,7 @@ inquirer
       getRandom();
     }
   });
-
+//
 // Tweet function ===========
 function getTweets() {
     //
@@ -218,3 +219,4 @@ function logData( data, dataType ) {
         }
     });
 }
+//
